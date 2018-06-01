@@ -1,0 +1,22 @@
+{
+  "website": "http://www.culturetravelchain.com",
+  "published_on": "2018-05-19",
+  "links": {
+    "twitter": "https://twitter.com/curtualtravel",
+    "github": "https://github.com/curtualtravelchain/culturetravelchain.git",
+    "facebook": "https://www.facebook.com/culturetravelchain"
+  },
+  "overview": {
+    "en": "Cultural and Travel Chain.",
+    "zh": "CUL 是基于区块链的大文旅产业服务平台。"
+  },
+  "symbol": "CUL",
+  "initial_price": {
+    "ETH": "0.000222 ETH",
+    "USD": "0.2343 USD",
+    "BTC": "0.00003 BTC"
+  },
+  "whitepaper": "http://www.culturetravelchain.com/Upload/pdf/5b0b9afcf1b32.pdf",
+  "address": "0x6dc1ed067b5ebc2b4fcaa2dc98d1714e2be2690b",
+  "email": "service@culturetravelchain.com"
+}
